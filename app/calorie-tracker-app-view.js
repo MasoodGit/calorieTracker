@@ -25,7 +25,10 @@ var AppRouter = Backbone.Router.extend({
 }); // end of AppRouter
 
 app.router = new AppRouter();
+
+//instantiate the collection, as it will used across the views.
 app.foodItemCollection = new app.FoodItemCollection();
-//app.foodItemCollection.fetch();
+
 Backbone.history.start();
+
 });

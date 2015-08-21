@@ -4,8 +4,8 @@ var app = app || {};
   'use strict';
 
   /**
-   * [FoodItemView description]
-   * @type {[type]}
+   * Represents view for foodItem used in foodItemListCollection
+   * 
    */
   app.FoodItemView = Backbone.View.extend({
     template: _.template($('#fooditem-view-template').html()),

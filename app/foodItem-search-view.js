@@ -4,7 +4,7 @@ var app = app || {};
   'use strict';
 
   /**
-   * Represents the view for the foodItem model, FoodItemSearchCollection
+   * Represents the view for the foodItem model, used in FoodItemSearchCollection
    * 
    */
   app.FoodItemSearchView = Backbone.View.extend({

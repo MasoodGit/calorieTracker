@@ -4,7 +4,7 @@ var app = app || {};
   'use strict';
 
   /**
-   * Represents the food Item 
+   * Represents the food Item model
    * @type {[type]}
    */
   app.FoodItem = Backbone.Model.extend({

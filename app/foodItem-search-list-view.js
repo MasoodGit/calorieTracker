@@ -5,7 +5,6 @@ var app = app || {};
 
   /**
    * Represents the FoodItemSearchCollection
-   * @type {[type]}
    */
    app.FoodItemSearchListView = Backbone.View.extend({
     

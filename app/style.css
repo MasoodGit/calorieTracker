@@ -1,0 +1,41 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#search-list-view {
+  max-width: 350px;
+}
+
+.search-results-list {
+  max-height: 300px;
+  overflow-y:auto;
+}
+
+.search-results {
+}
+
+.total-calories label {
+  padding: 5px 5px;
+}
+
+.search-view {
+  background-color: #fbfbfc;
+  box-shadow: 0 1px 1px #eee;
+  font-size: 12px;
+  color: #85898b;
+  padding: 5px 5px;
+  margin-bottom: 10px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.toggle {
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 1px #ccc;
+  margin-right: 10px;
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: middle;
+}

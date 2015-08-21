@@ -1,0 +1,326 @@
+{
+ "total_hits": 4485,
+ "max_score": 12.247336,
+ "hits": [
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "513fceb775b8dbbc2100306a",
+   "_score": 12.247336,
+   "fields": {
+    "item_id": "513fceb775b8dbbc2100306a",
+    "item_name": "Fast foods, taco with beef, cheese and lettuce, soft - 1 each taco",
+    "brand_id": "513fcc648110a4cafb90ca5e",
+    "brand_name": "USDA",
+    "nf_calories": 210.12,
+    "nf_total_fat": 9.95,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "513fc9cb673c4fbc2600536a",
+   "_score": 4.186524,
+   "fields": {
+    "item_id": "513fc9cb673c4fbc2600536a",
+    "item_name": "Taco",
+    "brand_id": "513fbc1283aa2dc80c000b96",
+    "brand_name": "Taco Inn",
+    "nf_calories": 220,
+    "nf_total_fat": 13,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "513fc9cd673c4fbc26006c3e",
+   "_score": 3.70682,
+   "fields": {
+    "item_id": "513fc9cd673c4fbc26006c3e",
+    "item_name": "Taco",
+    "brand_id": "513fbc1283aa2dc80c00042c",
+    "brand_name": "Taco Tico",
+    "nf_calories": 200,
+    "nf_total_fat": 12,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "529e7fa0f9655f6d3500ab22",
+   "_score": 3.5552187,
+   "fields": {
+    "item_id": "529e7fa0f9655f6d3500ab22",
+    "item_name": "Taco",
+    "brand_id": "513fbc1283aa2dc80c0001fc",
+    "brand_name": "Baker's Drive-thru",
+    "nf_calories": 160,
+    "nf_total_fat": 6,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "ae4975993ac10c688535e506",
+   "_score": 3.5552187,
+   "fields": {
+    "item_id": "ae4975993ac10c688535e506",
+    "item_name": "Taco",
+    "brand_id": "521b95444a56d006cae298e4",
+    "brand_name": "Fosters Freeze",
+    "nf_calories": 310,
+    "nf_total_fat": null,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "552ff0bfc1dccd3e4e7d44d9",
+   "_score": 3.410637,
+   "fields": {
+    "item_id": "552ff0bfc1dccd3e4e7d44d9",
+    "item_name": "Taco",
+    "brand_id": "552ff179bb51544701d052ab",
+    "brand_name": "Twisties",
+    "nf_calories": 139.1,
+    "nf_total_fat": 7.6,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "54761dd7bbd4fdf6606eb0ce",
+   "_score": 3.410637,
+   "fields": {
+    "item_id": "54761dd7bbd4fdf6606eb0ce",
+    "item_name": "Taco",
+    "brand_id": "54761e2959752938643a8c01",
+    "brand_name": "Margarita's",
+    "nf_calories": 10,
+    "nf_total_fat": 0,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "513fc998927da70408004a58",
+   "_score": 3.3181195,
+   "fields": {
+    "item_id": "513fc998927da70408004a58",
+    "item_name": "Taco",
+    "brand_id": "513fbc1283aa2dc80c000165",
+    "brand_name": "Fox's Pizza Den",
+    "nf_calories": 290,
+    "nf_total_fat": 14,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "53444ce69a631f1645ecfa2a",
+   "_score": 3.3181195,
+   "fields": {
+    "item_id": "53444ce69a631f1645ecfa2a",
+    "item_name": "Taco",
+    "brand_id": "521b95434a56d006cae297dc",
+    "brand_name": "Amigos Kings Classic",
+    "nf_calories": 180,
+    "nf_total_fat": 11,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "513fc9cb673c4fbc2600524e",
+   "_score": 1.476566,
+   "fields": {
+    "item_id": "513fc9cb673c4fbc2600524e",
+    "item_name": "Buche Taco",
+    "brand_id": "513fbc1283aa2dc80c00045c",
+    "brand_name": "King Taco",
+    "nf_calories": 120,
+    "nf_total_fat": 4.5,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "513fc9cb673c4fbc26005255",
+   "_score": 1.476566,
+   "fields": {
+    "item_id": "513fc9cb673c4fbc26005255",
+    "item_name": "Molleja Taco",
+    "brand_id": "513fbc1283aa2dc80c00045c",
+    "brand_name": "King Taco",
+    "nf_calories": 120,
+    "nf_total_fat": 4.5,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "463d0791fd4113f3304e4ad8",
+   "_score": 1.476566,
+   "fields": {
+    "item_id": "463d0791fd4113f3304e4ad8",
+    "item_name": "Biscuit Taco",
+    "brand_id": "513fbc1283aa2dc80c000020",
+    "brand_name": "Taco Bell",
+    "nf_calories": 430,
+    "nf_total_fat": 28,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "513fc999927da704080053d7",
+   "_score": 1.476566,
+   "fields": {
+    "item_id": "513fc999927da704080053d7",
+    "item_name": "Taco Burger",
+    "brand_id": "513fbc1283aa2dc80c00016c",
+    "brand_name": "Taco Mayo",
+    "nf_calories": 300,
+    "nf_total_fat": null,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "529e7f97ea63d4933500a8e0",
+   "_score": 1.476566,
+   "fields": {
+    "item_id": "529e7f97ea63d4933500a8e0",
+    "item_name": "Barbacoa Taco",
+    "brand_id": "521b95434a56d006cae2976a",
+    "brand_name": "Taco Cabana",
+    "nf_calories": 270,
+    "nf_total_fat": 13,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "513fc997927da70408004587",
+   "_score": 1.4434288,
+   "fields": {
+    "item_id": "513fc997927da70408004587",
+    "item_name": "Taco Chips",
+    "brand_id": "513fbc1283aa2dc80c000071",
+    "brand_name": "TacoTime",
+    "nf_calories": 150,
+    "nf_total_fat": 3.5,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "513fc99c927da70408006ee6",
+   "_score": 1.4434288,
+   "fields": {
+    "item_id": "513fc99c927da70408006ee6",
+    "item_name": "Vegetarian Taco",
+    "brand_id": "513fbc1283aa2dc80c000110",
+    "brand_name": "Maui Tacos",
+    "nf_calories": 410,
+    "nf_total_fat": 15,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "54b9bb8a56c10ee03d34aac3",
+   "_score": 1.4244943,
+   "fields": {
+    "item_id": "54b9bb8a56c10ee03d34aac3",
+    "item_name": "Chicken Taco - 1 taco",
+    "brand_id": "546a4142413b47f7107aed0c",
+    "brand_name": "Nutritionix",
+    "nf_calories": 339.84,
+    "nf_total_fat": 14.41,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "54b9bc6f9d515d706cda8825",
+   "_score": 1.4244943,
+   "fields": {
+    "item_id": "54b9bc6f9d515d706cda8825",
+    "item_name": "Steak Taco - 1 taco",
+    "brand_id": "546a4142413b47f7107aed0c",
+    "brand_name": "Nutritionix",
+    "nf_calories": 294.72,
+    "nf_total_fat": 15.14,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "513fc9cb673c4fbc26005254",
+   "_score": 1.3974345,
+   "fields": {
+    "item_id": "513fc9cb673c4fbc26005254",
+    "item_name": "Lengua Taco",
+    "brand_id": "513fbc1283aa2dc80c00045c",
+    "brand_name": "King Taco",
+    "nf_calories": 140,
+    "nf_total_fat": 6,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  },
+  {
+   "_index": "f762ef22-e660-434f-9071-a10ea6691c27",
+   "_type": "item",
+   "_id": "513fc99a927da704080067e5",
+   "_score": 1.3974345,
+   "fields": {
+    "item_id": "513fc99a927da704080067e5",
+    "item_name": "Crispy Taco",
+    "brand_id": "513fbc1283aa2dc80c0000b9",
+    "brand_name": "Taco John's",
+    "nf_calories": 170,
+    "nf_total_fat": 10,
+    "nf_serving_size_qty": 1,
+    "nf_serving_size_unit": "serving"
+   }
+  }
+ ]
+}
